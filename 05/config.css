@@ -1,0 +1,45 @@
+h1{
+		text-align: center;
+		font-family: 'Tomorrow', ;
+		color: #00FF00;
+		display: inline;
+	}
+	h2{
+		font-family: 'Tomorrow', ;
+		color: #A020F0;
+	}
+	p{
+		text-align: justify;
+		font-family: 'Roboto Condensed', ;
+		color: #F8F8FF;
+	}
+	a{
+		color: #00FF00; 
+		text-decoration:none;
+	}
+	#tamanho{
+		font-size: 15px
+	}
+	body{
+		background-image: url(https://universoreverso.com.br/wp-content/uploads/2018/03/rick-and-morty.jpg);
+		color: black;
+		background-repeat: no-repeat;
+		background-size:125%
+	}
+	h3{
+		color: #F8F8FF
+	}
+	address{
+		color:#F8F8FF
+	}
+	.destaque{
+		color:#FFFFFF 
+	}
+	img{
+		width: 19%;
+		height: 360px;
+	}
+	#H2 div{
+		display: flex;
+		padding: 50px
+	}
